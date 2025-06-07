@@ -6,5 +6,9 @@
 	"assets": {
 		"directory": ".open-next/assets",
 		"binding": "ASSETS"
+	},
+	"vars": {
+		"APP_SLOGAN": "Welcome to My App",
+		"NEXT_PUBLIC_API_NAME": "FoodieBank"
 	}
 }
